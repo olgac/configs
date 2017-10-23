@@ -1,1 +1,1 @@
-DB_URL: prod_db_url:5432
+DB_URL: local_db_url:5432
